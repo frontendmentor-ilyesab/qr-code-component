@@ -23,8 +23,8 @@ Getting Started on Frontend Mentor (beginner) roadmap.
 ![QR code component desktop version screenshot](./screenshot.png)
 
 ### Links
-
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/mobilefirst-solution-using-css-flexbox-and-media-queris-kzA5hCiALD)
+- Live Site URL: [Live Site](https://frontendmentor-ilyesab.github.io/qr-code-component/)
 
 ## My process
 
